@@ -1,0 +1,7 @@
+interface:
+  display_name: "复古八音盒海报与封面"
+  short_description: "生成角色踩在八音盒上的复古毛毡海报与编辑封面"
+  default_prompt: "Use $fuguhaibaohefengmian to create a coordinated 3:4 poster and cover for a new handcrafted character."
+
+policy:
+  allow_implicit_invocation: true
